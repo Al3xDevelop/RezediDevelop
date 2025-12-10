@@ -5,6 +5,7 @@
 # 📫 How to reach me:
 ## <a href="https://t.me/PKH_RUSSIAN" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Rezedi" /></a>
 # 💻 Tech Stack:
+t.me/StarsDev
 ## Languages:
 ###   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <font size =30> - Jun </font>
 
